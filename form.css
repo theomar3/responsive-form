@@ -97,12 +97,13 @@ input[type=tel] {
 }
 
 input::-webkit-input-placeholder {
-color: #2F508A  !important;
-font-style: italic;
+	color: #2F508A  !important;
+	font-style: italic;
 }
 
 input::-moz-placeholder {  /* Firefox 19+ */
-color: #2F508A  !important;
+	color: #2F508A  !important;
+	font-style: italic;
 }
 
 label {
